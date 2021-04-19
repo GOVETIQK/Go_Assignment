@@ -1,0 +1,11 @@
+{
+    "database" : {
+        "host" : "mongodb://localhost:27017"
+    },
+    "kafka" : {
+        "broker" : "localhost:9092",
+        "topic" : "feedback"
+    },
+    "host": "localhost",
+    "port" : 8080
+}
